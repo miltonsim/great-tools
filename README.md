@@ -5,6 +5,10 @@ Database
 1) Nocodb (https://github.com/nocodb/nocodb)
 - Turns MySQL, Postgres database into collaborative spreadsheet with REST APIs
 
+Storage
+1) Storj (https://www.storj.io/)
+- Decentralised storage (free tier, up to 150 GB/month)
+
 MacOS
 1) Autocomplete (https://github.com/withfig/autocomplete)
 
