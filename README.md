@@ -16,3 +16,6 @@ Guide
 
 1) 90 Days of DevOps (https://github.com/MichaelCade/90DaysOfDevOps)
 - Guide to learning DevOps
+
+Resume
+1) LinkedIn Profile to JSON (https://github.com/JMPerez/linkedin-to-json-resume)
