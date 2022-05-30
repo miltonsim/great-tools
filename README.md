@@ -9,6 +9,10 @@ Storage
 1) Storj (https://www.storj.io/)
 - Decentralised storage (free tier, up to 150 GB/month)
 
+Cloud
+1) Fly.io (https://fly.io/_
+- Free compute and database
+
 Automated Testing
 1) Robot Framework (https://robotframework.org/)
 
