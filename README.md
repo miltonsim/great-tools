@@ -13,8 +13,9 @@ Cloud
 1) Fly.io (https://fly.io/_
 - Free compute and database
 
-Automated Testing
+Testing
 1) Robot Framework (https://robotframework.org/)
+2) Testing Web Apps (https://playwright.dev/)
 
 MacOS
 1) Autocomplete (https://github.com/withfig/autocomplete)
