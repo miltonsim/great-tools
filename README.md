@@ -29,3 +29,6 @@ Guide
 
 Resume
 1) LinkedIn Profile to JSON (https://github.com/JMPerez/linkedin-to-json-resume)
+
+AWS
+1) aws-parameter-bulk (https://github.com/gork74/aws-parameter-bulk)
