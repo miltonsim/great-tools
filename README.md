@@ -32,3 +32,7 @@ Resume
 
 AWS
 1) aws-parameter-bulk (https://github.com/gork74/aws-parameter-bulk)
+
+
+Misc
+1) bypass-paywalls-chrome (https://github.com/iamadamdev/bypass-paywalls-chrome)
