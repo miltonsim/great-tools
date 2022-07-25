@@ -16,6 +16,7 @@ Cloud
 Testing
 1) Robot Framework (https://robotframework.org/)
 2) Testing Web Apps (https://playwright.dev/)
+3) Cypress (https://www.cypress.io/)
 
 MacOS
 1) Autocomplete (https://github.com/withfig/autocomplete)
@@ -32,7 +33,6 @@ Resume
 
 AWS
 1) aws-parameter-bulk (https://github.com/gork74/aws-parameter-bulk)
-
 
 Misc
 1) bypass-paywalls-chrome (https://github.com/iamadamdev/bypass-paywalls-chrome)
